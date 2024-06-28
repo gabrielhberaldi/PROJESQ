@@ -1,4 +1,3 @@
-// game.js
 class SceneSelectCharacter extends Phaser.Scene {
     constructor() {
         super({ key: 'SceneSelectCharacter' });
